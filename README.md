@@ -1,13 +1,5 @@
-# 🐍 Python Project
+## 🎯 Purpose
+This repository is designed for students learning Python for Data Analytics.
 
-## 📌 Description
-This repository contains Python programs and projects developed for learning and practice purposes. It covers basic to intermediate concepts of Python programming, including syntax, data structures, functions, and file handling.
-
-## 🚀 Features
-- Beginner-friendly Python programs
-- Clean and readable code
-- Practical examples for learning
-- Covers core programming concepts
-
-## 🛠️ Technologies Used
-- Python 3
+## 👨‍🏫 About
+Created as part of my mentoring program to help beginners build strong fundamentals.
